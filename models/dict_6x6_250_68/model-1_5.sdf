@@ -1,0 +1,14 @@
+<?xml version="1.0" ?><sdf version="1.5">
+  <model name="DICT_6X6_250_68">
+    <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>model://dict_6x6_250_68/meshes/DICT_6X6_250_68.dae</uri>
+          <scale>0.6 0.6 0.6</scale></mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+</sdf>

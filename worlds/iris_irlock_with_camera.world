@@ -86,13 +86,13 @@
           </material>
         </visual>
       </link>
-      <static>0</static>
+      <static>1</static>
     </model>
 
     <include>
       <uri>model://dict_6x6_250_68</uri>
       <name>aruco_marker</name>
-      <pose>0.65 0 0.05 0 -1.57 0</pose>
+      <pose>0.65 1.5 0.05 0 -1.57 0</pose>
       <link name="link">
         <inertial>
           <pose>0 0 0 0 0 0</pose>

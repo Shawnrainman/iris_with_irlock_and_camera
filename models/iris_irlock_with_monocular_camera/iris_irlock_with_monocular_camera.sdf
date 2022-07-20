@@ -43,7 +43,7 @@
     </include>
     <joint name="monocular_down_joint" type="fixed">
       <child>monocular_camera::link</child>
-      <parent>base_link</parent>
+      <parent>iris::base_link</parent>
       <axis>
         <xyz>0 0 1</xyz>
         <limit>
